@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Luca O.</h1>
+<h1 align="center">Hi 👋, I'm Luca ORELLI.</h1>
 <h3 align="center">I'm computer science student at Epitech</h3>
 
 - 🔭 I’m currently working on **Runner game project in SFML**
