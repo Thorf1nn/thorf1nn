@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Luca ORELLI.</h1>
 <h3 align="center">I'm computer science student at Epitech</h3>
 
-- 🔭 I’m currently working on **Runner game project in SFML**
+- 🔭 I’m currently working on **minishell1, antman**
 
 - 🌱 I’m currently learning **C and Python**
 
