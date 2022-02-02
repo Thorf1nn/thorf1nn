@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Luca O.</h1>
 <h3 align="center">I'm computer science student at Epitech</h3>
 
-- 🔭 I’m currently working on **Dofus Farm Bot project**
+- 🔭 I’m currently working on **Learn Angular**
 
 - 🌱 I’m currently learning **Computer Science**
 
