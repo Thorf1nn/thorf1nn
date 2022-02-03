@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **whatever 😏**
 
-- 📫 How to reach me **luca.kyubi@gmail.com**
+- 📫 How to reach me **luca.orelli@epitech.eu**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
