@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Luca O.</h1>
 <h3 align="center">I'm computer science student at Epitech</h3>
 
-- 🔭 I’m currently working on **Learn Solidity**
+- 🔭 I’m currently working on **Learn React**
 
 - 🌱 I’m currently learning **Computer Science**
 
