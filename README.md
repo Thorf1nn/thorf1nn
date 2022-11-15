@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Luca O.</h1>
 <h3 align="center">I'm computer science student at Epitech</h3>
 
-- 🔭 I’m currently working on **Learn React**
+- 🔭 I’m currently working on **Create Fighting game with Rust**
 
-- 🌱 I’m currently learning **Computer Science**
+- 🌱 I’m currently learning **React and Nodejs at my Internship and Rust**
 
 - 👯 I’m looking to collaborate on **whatever 😏**
 
