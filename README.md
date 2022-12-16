@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Luca O.</h1>
 <h3 align="center">I'm computer science student at Epitech</h3>
 
-- 🔭 I’m currently working on **WASM Fighting game with Bevy Rust Engine**
+- 🔭 I’m currently working on **SpringBoot Discord Bot in Java**
 
-- 🌱 I’m currently learning **React and Nodejs at my Internship and Rust**
+- 🌱 I’m currently learning **React and Nodejs at my Internship, Rust and Java**
 
 - 👯 I’m looking to collaborate on **whatever 😏**
 
