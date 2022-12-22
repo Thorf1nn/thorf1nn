@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **SpringBoot Discord Bot in Java**
 
-- 🌱 I’m currently learning **React and Nodejs at my Internship, Rust and Java**
+- 🌱 I’m currently learning **React and Nodejs at my Internship and Java**
 
 - 👯 I’m looking to collaborate on **whatever 😏**
 
