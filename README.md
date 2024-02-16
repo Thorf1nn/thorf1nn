@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Area (Epitech Project) with Nest js**
 
-- 🌱 I’m currently learning **Svelte, NestJs, Three JS, Kubernetes**
+- 🌱 I’m currently learning **NextJs**
 
 - 👯 I’m looking to collaborate on **whatever 😏**
 
