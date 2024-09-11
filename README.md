@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Luca O.</h1>
 <h3 align="center">I'm computer science student at Epitech</h3>
 
-- 🔭 I’m currently working on **Launcher Manga which can send to a kindle with Remix**
+- 🔭 I’m currently working on **Launcher Manga which can send to a kindle with Next and Nest**
 
 - 🌱 I’m currently learning **NextJs and Remix.run**
 
